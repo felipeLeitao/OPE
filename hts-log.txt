@@ -1,0 +1,25 @@
+HTTrack3.48-22+htsswf+htsjava launched on Mon, 31 Oct 2016 15:08:08 at http://keenthemes.com/preview/metronic/theme/admin_3/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://keenthemes.com/preview/metronic/theme/admin_3/ -O1 "C:\My Web Sites\gentelella" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:08:09	Warning: 	Note: due to keenthemes.com remote robots.txt rules, links beginning with these path will be forbidden: /staging/*, /jango/*, /test/*, /assets/*, /downloads/*, /temp/* (see in the options to disable this)
+15:29:32	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from keenthemes.com/preview/metronic/theme/admin_3/)
+15:29:52	Error: 	"Not Found" (404) at link keenthemes.com/preview/metronic/theme/assets/apps/scripts/timeline.min.js (from keenthemes.com/preview/metronic/theme/admin_3/ui_timeline.html)
+15:30:20	Error: 	"Forbidden" (403) at link code.highcharts.com/mapdata/custom/world.min.js (from keenthemes.com/preview/metronic/theme/admin_3/charts_highmaps.html)
+15:30:20	Error: 	"Forbidden" (403) at link code.highcharts.com/mapdata/custom/europe.min.js (from keenthemes.com/preview/metronic/theme/admin_3/charts_highmaps.html)
+15:30:24	Error: 	"Not Found" (404) at link keenthemes.com/preview/metronic/theme/admin_3/login.html (from keenthemes.com/preview/metronic/theme/admin_3/page_user_lock_2.html)
+15:30:29	Error: 	"Not Found" (404) at link keenthemes.com/preview/metronic/theme/assets/global/plugins/jquery-file-upload/img/error.png (from keenthemes.com/preview/metronic/theme/assets/global/plugins/jquery-file-upload/blueimp-gallery/blueimp-gallery.min.css)
+15:30:29	Error: 	"Not Found" (404) at link keenthemes.com/preview/metronic/theme/assets/global/plugins/jquery-file-upload/img/play-pause.png (from keenthemes.com/preview/metronic/theme/assets/global/plugins/jquery-file-upload/blueimp-gallery/blueimp-gallery.min.css)
+15:30:29	Error: 	"Not Found" (404) at link keenthemes.com/preview/metronic/theme/assets/global/plugins/jquery-file-upload/img/video-play.png (from keenthemes.com/preview/metronic/theme/assets/global/plugins/jquery-file-upload/blueimp-gallery/blueimp-gallery.min.css)
+15:30:50	Error: 	"Not Found" (404) at link keenthemes.com/preview/metronic/theme/assets/global/plugins/datatables/DataTables-1.10.12/images/sort_both.png (from keenthemes.com/preview/metronic/theme/assets/global/plugins/datatables/datatables.min.css)
+15:30:51	Error: 	"Not Found" (404) at link keenthemes.com/preview/metronic/theme/assets/global/plugins/datatables/DataTables-1.10.12/images/sort_asc.png (from keenthemes.com/preview/metronic/theme/assets/global/plugins/datatables/datatables.min.css)
+15:30:51	Error: 	"Not Found" (404) at link keenthemes.com/preview/metronic/theme/assets/global/plugins/datatables/DataTables-1.10.12/images/sort_desc.png (from keenthemes.com/preview/metronic/theme/assets/global/plugins/datatables/datatables.min.css)
+15:30:51	Error: 	"Not Found" (404) at link keenthemes.com/preview/metronic/theme/assets/global/plugins/datatables/DataTables-1.10.12/images/sort_asc_disabled.png (from keenthemes.com/preview/metronic/theme/assets/global/plugins/datatables/datatables.min.css)
+15:30:51	Error: 	"Not Found" (404) at link keenthemes.com/preview/metronic/theme/assets/global/plugins/datatables/DataTables-1.10.12/images/sort_desc_disabled.png (from keenthemes.com/preview/metronic/theme/assets/global/plugins/datatables/datatables.min.css)
+
+HTTrack Website Copier/3.48-22 mirror complete in 22 minutes 44 seconds : 989 links scanned, 975 files written (95620351 bytes overall), 976 files updated [33607981 bytes received at 24639 bytes/sec], 67392388 bytes transferred using HTTP compression in 317 files, ratio 6%, 8.1 requests per connection
+(13 errors, 1 warnings, 0 messages)

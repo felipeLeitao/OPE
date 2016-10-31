@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:07:49	1936/1936	---MCZ	403	error ('Forbidden')	text/html	date:Mon,%2031%20Oct%202016%2017:07:49%20GMT	https://colorlib.com/robots.txt		(from )
+15:07:49	4228/4228	---MCZ	403	error ('Forbidden')	text/html	date:Mon,%2031%20Oct%202016%2017:07:49%20GMT	https://colorlib.com/polygon/gentelella/	C:/My%20Web%20Sites/gentelella/colorlib.com/polygon/gentelella/index.html	(from )
